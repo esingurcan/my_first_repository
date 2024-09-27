@@ -94,4 +94,7 @@ fit_2 <- sem(model_2, data= data_12m) # For Receptive
 summary(fit_2, fit.measures = TRUE, standardized = TRUE, rsquare = TRUE)
 ```
 
+## Git 
+This repository now is set up for git.
+
 
